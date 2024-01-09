@@ -1,61 +1,52 @@
+
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<h2> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sahil Verma.</h2>
+<h2> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Nitin Jha.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning more about Web, Making Website and Web Apps.
-- ✍️ &nbsp; Pursuing Web Design and Gaming as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Web Development and Gaming as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=Tailwind-CSS)
-  ![NextJS](https://img.shields.io/badge/-NextJS-333?logo=Next.js)
-  ![Material UI](https://img.shields.io/badge/-Material%20UI-333?style=flat&logo=Material-UI)
-- 📶 &nbsp;
-  ![FireStore](https://img.shields.io/badge/-FireStore-333?style=flat&logo=Firebase)
+ <p align="center">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
+
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
+<p align="center">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+</p>
+
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+ <p align="center">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+</p>
 
-<br/>
 
 
-<h3> 🧑‍💻 &nbsp;Top Languages</h3>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilverma-dev&layout=compact&theme=react" />
 
-<h3> 📈 &nbsp;Commit Stats</h3>
-
-<a href="https://github.com/sahilverma-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilverma-dev&show_icons=true&theme=react" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=sahilverma-dev&theme=react" alt="GitHub Streak" />
-
-</a>
-
-<br/>
-
-<a href="https://github.com/sahilverma-dev">
-  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=sahilverma-dev&theme=react-dark" />
-</a>
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="https://twitter.com/sahilverma_dev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Sahil%20Verma-blue?style=flat-square&logo=twitter"></a>
-  <a href="https://www.instagram.com/sahilverma.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sahilverma.dev-blue?style=flat-square&logo=instagram"></a>
-  <a href="mailto:sahilverma.webdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sahilverma.webdev@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sahilverma-dev.sahilverma-dev" alt="TidbitsJS :: Visitor's Count" />
+  <a href="https://twitter.com/CoderMonkey19"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Nitin%20Jha-blue?style=flat-square&logo=twitter"></a>
+  <a href="https://www.linkedin.com/in/nitin-jha-68a556276/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nitin Jha-blue?"></a>
+  <a href="mailto:sahilverma.webdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nitinjha890@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>

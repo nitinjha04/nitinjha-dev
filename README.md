@@ -47,6 +47,6 @@
 
 <p align="center">
   <a href="https://twitter.com/CoderMonkey19"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Nitin%20Jha-blue?style=flat-square&logo=twitter"></a>
-  <a href="https://www.linkedin.com/in/nitin-jha-68a556276/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nitin Jha-blue?"></a>
+  <a href="www.linkedin.com/in/jhanitin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nitin Jha-blue?"></a>
   <a href="mailto:sahilverma.webdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nitinjha890@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>

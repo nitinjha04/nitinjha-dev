@@ -47,6 +47,14 @@
 
 <br/>
 
+<h3> 📈 &nbsp;Commit Stats</h3>
+
+ <p align="center">
+<a href="https://github.com/nitinjha04">
+  <img height="180em" src="https://streak-stats.demolab.com?user=nitinjha04&theme=react" alt="GitHub Streak" />
+</a> 
+ </p>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">

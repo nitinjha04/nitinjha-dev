@@ -1,14 +1,6 @@
 <h2> Hey there! <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px"> I'm Nitin Jha.</h2>
 
-# 💫 Meet the DEV Alchemist: Turning Code into Gold! 🧙‍♂️💻### 
-
-In the mystical realm of software development, where bugs lurk in every corner 🐛 and deadlines loom like ancient curses ⏳, there exists a legendary figure known as the DEV Alchemist. With a keyboard as his wand 🎹 and caffeine as his elixir ☕, this Full Stack wizard brews up magic from mere lines of code.
-
-Behold! The DEV Alchemist, master of both front-end enchantments ✨ and back-end sorcery 🔮, conjures responsive designs that dance like sprites on a screen 💃 and crafts databases as sturdy as dragon scales 🐉. His spells, written in JavaScript and Python 🐍, bring websites to life, captivating users and clients alike.
-
-In his laboratory, also known as his home office 🏠, the DEV Alchemist transforms requirements into realities, debugging with the precision of a potion maker refining his concoction 🧪. His GitHub repository is a grimoire of arcane knowledge 📜, where secrets of the digital world are meticulously documented.
-
-Join us as we delve into the world of the DEV Alchemist, where every project is a quest 🗺️, every challenge a riddle ❓, and every solution a masterpiece 🎨. Prepare to be amazed, for in his hands, code is not just code—it's pure gold. 🏆✨
+I'm a passionate Full Stack Developer who loves building innovative solutions with code. I focus on Full Stack Development and enjoy automating tasks to make life easier. Currently, I'm diving deep into Open Source projects and continuously learning new technologies to improve my skills.
 
 
 ## 🌐 Socials:
